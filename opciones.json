@@ -1,0 +1,6 @@
+{
+    "dependencia": ["Grupo de Gestión Documental", "Dirección Administrativa"],
+    "funcionarios": ["Funcionario1", "Funcionario2"],
+    "grupo": ["GEDESS - GESDOC - JERARQUICO", "GEDESS - GESDOC - ABIERTO"]
+  }
+  
